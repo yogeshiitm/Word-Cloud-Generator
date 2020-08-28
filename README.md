@@ -1,3 +1,1 @@
-# Word-Cloud-Generator
-Python Script That Generates a "Word Cloud" From a Text File.
-Final Project of Crash Course on Python by Google.
+Final Project of Crash Course on Python by Google. This python script generates a "Word Cloud" from a Text File.
