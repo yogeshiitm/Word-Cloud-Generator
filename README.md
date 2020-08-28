@@ -1,1 +1,2 @@
-This is the final Project of Crash Course on Python by Google. This python script generates a "Word Cloud" from a Text File.
+# Final Project of a Python Course offered by Google.
+This python script generates a "Word Cloud" from a Text File.
